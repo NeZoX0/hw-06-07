@@ -127,7 +127,7 @@ body {
     background-color: #2196F3;
     border-radius: 2px;
     position: absolute;
-    bottom: -13px;
+    bottom: -13.5px;
     left: 0;
     opacity: 0;
     transition: 0.25s;
